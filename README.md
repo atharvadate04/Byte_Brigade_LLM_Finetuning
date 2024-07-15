@@ -36,9 +36,12 @@ Before you begin, ensure you have met the following requirements:
 
 ## Inference Notebook
 ![WhatsApp Image 2024-07-13 at 21 12 40_d3e1ab10](https://github.com/user-attachments/assets/dd11ec30-16e3-44a5-84d9-7f48f3b6a537)
+![image](https://github.com/user-attachments/assets/db8cbed8-9d47-4a19-91a8-9b25380aa5ad)
 ![WhatsApp Image 2024-07-13 at 21 16 26_20fe7b7d](https://github.com/user-attachments/assets/3792d8c3-8e10-43d4-9f3d-56e0dcebc462)
 ![WhatsApp Image 2024-07-14 at 17 01 44_e97a0d58](https://github.com/user-attachments/assets/9c4ef8c3-80ee-4ae6-8dbb-6393849578ee)
 ![WhatsApp Image 2024-07-14 at 17 09 52_3f13dd07](https://github.com/user-attachments/assets/49e1e2ed-4e8c-4f85-9976-a74a55860a8f)
+![image](https://github.com/user-attachments/assets/e26d6fc3-604d-4f3f-851a-1f0901b325d0)
+
 
 
 ## Learnings
