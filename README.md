@@ -50,13 +50,13 @@ Before you begin, ensure you have met the following requirements:
 ## Learnings
 - We learned that if there are any conflicts with the environment in which you are working, it is necessary to create a virtual environment (using the venv Python library) to resolve module not found errors. You also have to create a custom Kernel to execute the commands in notebooks
 - We have learned how to use NeuralChat, a customizable chat framework, to create a chatbot within minutes on various architectures, specifically on the 4th Generation of Intel® Xeon® Scalable Processors (Sapphire Rapids). By leveraging the intel_extension_for_transformers library, We explored how to optimize chatbot performance using BF16 mixed precision. This involved configuring a chatbot with PipelineConfig and MixedPrecisionConfig to enhance computational efficiency and reduce latency, thereby improving the overall user experience in text-based interactions.
--**Model Accuracy and Performance**:
+- **Model Accuracy and Performance**:
 Evaluating how accurately the model performs on new, unseen data.
 Understanding the model's strengths and weaknesses in different scenarios.
--**Response Time and Efficiency**:
+- **Response Time and Efficiency**:
 Measuring the time taken for the model to generate responses.
 Analyzing the efficiency of the model in real-time applications.
--**Error Analysis**:
+- **Error Analysis**:
 Identifying common types of errors made by the model.
 Understanding why these errors occur and how they can be mitigated.
 
