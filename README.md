@@ -1,11 +1,11 @@
 # Byte_Brigade_LLM_Inference-Finetuning
 
-This repository contains a Jupyter Notebook for inferencing on a chatbot as part of a larger server project with many folders and libraries.
-It also contains a Jupyter notebook for finetuning of meta-llama/Llama-2-7b-chat-hf model using custom alpaca_cleaned_dataset from [alpaca_lora](https://github.com/tloen/alpaca-lora) repository.
+- This repository contains a Jupyter Notebook for inferencing on a chatbot as part of a larger server project with many folders and libraries.
+- It also contains a Jupyter notebook for finetuning of meta-llama/Llama-2-7b-chat-hf model using custom alpaca_cleaned_dataset from [alpaca_lora](https://github.com/tloen/alpaca-lora) repository.
 
 ## Introduction
-Part 1: This notebook demonstrates the process of running inferences on a chatbot model. The aim is to showcase the model's capabilities and provide insights into its performance and application.
-Part 2: This notebook demonstrates the process of fine-tuning a model on a specific dataset. The dataset was initially too large, so it was reduced to optimize the training time. The notebook provides a step-by-step guide on fine-tuning and evaluating the model. We use 3 kinds of dataset for Text Generation, Summarization and Code Generation. 
+- Part 1: This notebook demonstrates the process of running inferences on a chatbot model (Intel/neural-chat-7b-v3-1). The aim is to showcase the model's capabilities and provide insights into its performance and application.
+- Part 2: This notebook demonstrates the process of fine-tuning a model on a specific dataset. The dataset was initially too large, so it was reduced to optimize the training time. The notebook provides a step-by-step guide on fine-tuning and evaluating the model. We use 3 kinds of dataset for Text Generation, Summarization and Code Generation. 
 
 ## Prerequisites
 
@@ -40,7 +40,10 @@ Before you begin, ensure you have met the following requirements:
 ![WhatsApp Image 2024-07-13 at 21 16 26_20fe7b7d](https://github.com/user-attachments/assets/3792d8c3-8e10-43d4-9f3d-56e0dcebc462)
 ![WhatsApp Image 2024-07-14 at 17 01 44_e97a0d58](https://github.com/user-attachments/assets/9c4ef8c3-80ee-4ae6-8dbb-6393849578ee)
 ![WhatsApp Image 2024-07-14 at 17 09 52_3f13dd07](https://github.com/user-attachments/assets/49e1e2ed-4e8c-4f85-9976-a74a55860a8f)
+![image](https://github.com/user-attachments/assets/bf078546-ab11-4cb4-bc63-7042e07304c6)
 ![image](https://github.com/user-attachments/assets/e26d6fc3-604d-4f3f-851a-1f0901b325d0)
+![image](https://github.com/user-attachments/assets/7a3e5339-ef5c-4007-8a0a-5b5e0d82f164)
+
 
 
 
